@@ -34,7 +34,7 @@ function analisarNumero($numero)
             $soma += $i;
         }
     }
-
+    
     if ($soma == $numero && $numero > 0) {
         $perfeito = "É perfeito";
     } else {
